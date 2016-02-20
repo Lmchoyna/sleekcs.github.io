@@ -1,0 +1,40 @@
+.center {
+    margin-left:auto;
+    margin-right:auto;
+}
+
+body {
+    font-family:Verdana;
+}
+
+#homeheader {
+    text-align:center;
+    color:#777777;
+}
+
+#backgroundimage {
+    position:absolute;
+    width:100%;
+    z-index:-30;
+    position:absolute;
+    margin-top:-50px;
+}
+
+#inlineblock {
+    position:inline-block;
+}
+
+.jumbotron {
+    text-align:center;
+}
+
+#logoheaderimg {
+    perspective: 1px;
+    border-radius:100%;
+    overflow:hidden;
+}
+
+#sleekcolors {
+    background-color:#00004d;
+    color:#FFFFFF;
+}
